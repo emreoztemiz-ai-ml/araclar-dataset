@@ -1,8 +1,11 @@
+
 # Araç Tanıma Veri Seti (KTUN_241230025)
-##Google Drive İndirme Linki
+![Sayısal Tanıtım](https://raw.githubusercontent.com/emreoztemiz-ai-ml/araclar-dataset/refs/heads/main/Dataset%20Raporumuz.png)
+
+## Google Drive İndirme Linki
 - **Data verilerine ulaşmak ve** [İNDİRMEK İÇİN](https://drive.google.com/file/d/1P1K5WstQmBgpDwPJ3kbsn9d9JxwIanW5/view?usp=sharing)
 
-##HUGGİNG FACE İndirme Linki
+## HUGGİNG FACE İndirme Linki
 - **HUGGİNG FACE DATA LİNKİ İÇİN** [BURAYA TIKLAYIN](https://huggingface.co/datasets/emreaiml/vehicle-dataset-ktun-241230025)
 ## Genel Bakış
 Bu veri seti, 8 farklı araç sınıfını kapsayan toplam 4408 adet görselden oluşmaktadır. Proje; otomobil, otobüs gibi yaygın araçların yanı sıra patpat ve dolmuş gibi yerel araç türlerini de içermektedir.
