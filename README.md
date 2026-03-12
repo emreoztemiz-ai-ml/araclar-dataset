@@ -1,5 +1,6 @@
 # Araç Tanıma Veri Seti (KTUN_241230025)
-
+##Google Drive İndirme Linki:
+Data verilerine ulaşmak ve [İNDİRMEK İÇİN](https://drive.google.com/file/d/1P1K5WstQmBgpDwPJ3kbsn9d9JxwIanW5/view?usp=sharing)
 ## Genel Bakış
 Bu veri seti, 8 farklı araç sınıfını kapsayan toplam 4408 adet görselden oluşmaktadır. Proje; otomobil, otobüs gibi yaygın araçların yanı sıra patpat ve dolmuş gibi yerel araç türlerini de içermektedir.
 
