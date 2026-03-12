@@ -2,6 +2,9 @@
 # Araç Tanıma Veri Seti (KTUN_241230025)
 ![Sayısal Tanıtım](https://raw.githubusercontent.com/emreoztemiz-ai-ml/araclar-dataset/refs/heads/main/Dataset%20Raporumuz.png)
 
+## KAGGLE ÖNİZLEME VE İNDİRME LİNKİ
+- **Data önizleme ve**  [İNDİRMEK İÇİN](https://www.kaggle.com/datasets/emreztemiz/vehicle-dataset-ktun-241230025)
+
 ## Google Drive İndirme Linki
 - **Data verilerine ulaşmak ve** [İNDİRMEK İÇİN](https://drive.google.com/file/d/1P1K5WstQmBgpDwPJ3kbsn9d9JxwIanW5/view?usp=sharing)
 
