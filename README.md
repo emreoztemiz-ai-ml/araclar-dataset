@@ -16,6 +16,10 @@ Bu veri seti, 8 farklı araç sınıfını kapsayan toplam 4408 adet görselden 
 - **Test (Test):** 486 Görsel
 - **Toplam Boyut:** 2.26 GB
 
+
+## KLASÖR YAPISI İÇİN ÖN BİLGİLENDİRME ŞEMASI
+![Ağaç Yapısı](https://raw.githubusercontent.com/emreoztemiz-ai-ml/araclar-dataset/refs/heads/main/Klas%C3%B6r%20%C5%9Eemas%C4%B1.png)
+
 ## Araç Sınıfları
 
 ### Standart Araçlar
